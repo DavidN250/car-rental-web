@@ -56,7 +56,7 @@ body {
 }
 
 *::-webkit-scrollbar-thumb:active {
-  background-color: #ff2525;
+  background-color: #38aa07;
 }
 
 .navbar {
@@ -130,12 +130,12 @@ body {
   color: white;
   padding: 1.5rem 3rem;
   border-radius: 3px;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.35);
   transition: all 0.3s;
 }
 .navbar__buttons__register:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.5);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.5);
+  background-color: #38aa07;
 }
 .navbar__buttons a {
   text-decoration: none;
@@ -291,7 +291,7 @@ body {
   background-color: #245a0d;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.35);
   transition: all 0.3s;
   border: 2px solid #245a0d;
 }
@@ -301,8 +301,8 @@ body {
   }
 }
 .hero-content__text__btns__book-ride:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.6);
+  background-color: #38aa07;
 }
 .hero-content__text__btns__learn-more {
   background-color: #010103;
@@ -466,12 +466,13 @@ body {
   font-weight: 500;
   color: white;
   background-color: #245a0d;
-  box-shadow: 0 10px 15px rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px rgba(91, 200, 0, 0.35);
   cursor: pointer;
   transition: all 0.3s;
 }
 .book-content__box button:hover {
-  box-shadow: 0 10px 15px rgba(255, 83, 48, 0.55);
+  box-shadow: 0 10px 15px rgba(91, 200, 0, 0.55);
+  background-color: #38aa07;
 }
 
 .error-message {
@@ -1147,7 +1148,7 @@ body {
   background-color: #245a0d;
   padding: 1.5rem 2.5rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.35);
   transition: all 0.3s;
   border: 2px solid #245a0d;
   font-size: 1.6rem;
@@ -1155,8 +1156,8 @@ body {
   width: fit-content;
 }
 .text-container__left a:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.6);
+  background-color: #38aa07;
 }
 .text-container__right {
   display: flex;
@@ -1397,7 +1398,7 @@ body {
 .active-question {
   background-color: #245a0d;
   color: white;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.35);
 }
 
 .download-section {
@@ -1466,18 +1467,17 @@ body {
 }
 
 footer {
-  background-color: #ffffff;
+  background-color: #245a0d;
   padding: 10rem 0;
 }
 
 .footer-content {
   display: grid;
-  color: #010103;
+  color: #f5f5f8;
   grid-template-columns: 27fr 21fr 21fr 21fr;
   gap: 8rem;
   justify-content: center;
   text-align: left;
-  color: #010103;
 }
 @media (max-width: 1100px) {
   .footer-content {
@@ -1499,7 +1499,7 @@ footer {
 }
 .footer-content__1 li a {
   text-decoration: none;
-  color: #010103;
+  color: #f5f5f8;
   transition: all 0.2s;
 }
 .footer-content__1 li a:hover {
@@ -1534,7 +1534,7 @@ footer {
 }
 .footer-content__2 a {
   text-decoration: none;
-  color: #010103;
+  color: #f5f5f8;
   transition: all 0.2s;
 }
 .footer-content__2 a:hover {
@@ -1576,7 +1576,7 @@ footer {
   background-color: #245a0d;
   padding: 1.5rem 2.5rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.25);
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.25);
   transition: all 0.3s;
   border: 2px solid #245a0d;
   font-size: 1.6rem;
@@ -1586,8 +1586,8 @@ footer {
   width: 100%;
 }
 .submit-email:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.4);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.4);
+  background-color: #38aa07;
 }
 
 .hero-pages {
@@ -1904,15 +1904,15 @@ footer {
   background-color: #245a0d;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.35);
   transition: all 0.3s;
   border: 2px solid #245a0d;
   font-size: 1.8rem;
   cursor: pointer;
 }
 .models-div__box__descr__name-price__btn:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.6);
+  background-color: #38aa07;
 }
 .models-div__box__descr__name-price__btn a {
   text-decoration: none;
@@ -2066,7 +2066,7 @@ footer {
   background-color: #245a0d;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.35);
   transition: all 0.3s;
   border: 2px solid #245a0d;
   color: white;
@@ -2075,6 +2075,6 @@ footer {
   cursor: pointer;
 }
 .contact-div__form form button:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
-  background-color: #fa4226;
+  box-shadow: 0 10px 15px 0 rgba(91, 200, 0, 0.6);
+  background-color: #38aa07;
 }/*# sourceMappingURL=styles.css.map */

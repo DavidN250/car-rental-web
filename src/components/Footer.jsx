@@ -14,17 +14,17 @@ function Footer() {
               </li>
               <li>
                 <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; (123) -456-789
+                  <i className="fa-solid fa-phone"></i> &nbsp; (250) -456-789
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                optionexpress@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; calebjephuneh@gmail.com
+                  &nbsp; info@optionexpress.com
                 </a>
               </li>
 
@@ -33,17 +33,17 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://jephunneh.com/"
+                  href="https://optionexpress.com/"
                 >
-                  Design by cjephuneh
+                  Designed by David
                 </a>
               </li>
             </ul>
 
             <ul className="footer-content__2">
-              <li>Company</li>
+              <li>Option Express</li>
               <li>
-                <a href="#home">New York</a>
+                <a href="#home">Kigali</a>
               </li>
               <li>
                 <a href="#home">Careers</a>
@@ -60,10 +60,11 @@ function Footer() {
             </ul>
 
             <ul className="footer-content__2">
-              <li>Working Hours</li>
+              <li>Office Hours</li>
               <li>Mon - Fri: 9:00AM - 9:00PM</li>
               <li>Sat: 9:00AM - 19:00PM</li>
               <li>Sun: Closed</li>
+              <li>We offer online services 24/7</li>
             </ul>
 
             <ul className="footer-content__2">
